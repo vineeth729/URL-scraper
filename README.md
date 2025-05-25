@@ -74,8 +74,6 @@ http://localhost:5000
 ✅ Example Output
 
 ```json
-Copy
-Edit
 {
   "title": "Example Domain",
   "heading": "Example Domain"
