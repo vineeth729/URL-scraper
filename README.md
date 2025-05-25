@@ -26,7 +26,6 @@ project/
 ├── scrape.js              # Puppeteer script to scrape title and heading
 ├── server.py              # Flask server to serve scraped JSON
 ├── requirements.txt       # Flask dependency
----
 ```
 ## ⚙️ How It Works
 
