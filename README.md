@@ -20,19 +20,14 @@ This project demonstrates a multi-stage Docker build that:
 ---
 
 ## 📁 Project Structure
+```text
 project/
-
-├── Dockerfile
-
-├── scrape.js             # Node.js scraper script
-
-├── server.py             # Flask web server
-
-├── requirements.txt      # Python dependencies
-
-
+├── Dockerfile             # Multi-stage Dockerfile (Node.js + Python)
+├── scrape.js              # Puppeteer script to scrape title and heading
+├── server.py              # Flask server to serve scraped JSON
+├── requirements.txt       # Flask dependency
 ---
-
+```
 ## ⚙️ How It Works
 
 ### 1️⃣ Scraper Stage (Node.js + Puppeteer)
