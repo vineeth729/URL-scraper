@@ -22,8 +22,11 @@ This project demonstrates a multi-stage Docker build that:
 ## 📁 Project Structure
 project/
 ├── Dockerfile
+
 ├── scrape.js             # Node.js scraper script
+
 ├── server.py             # Flask web server
+
 ├── requirements.txt      # Python dependencies
 
 
