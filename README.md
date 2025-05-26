@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+
 This project demonstrates a multi-stage Docker build that:
 
 - 🕷️ Scrapes data from a user-provided URL using **Node.js**, **Puppeteer**, and **Chromium**
