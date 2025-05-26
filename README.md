@@ -1,5 +1,9 @@
 # Multi-Stage Web Scraper with Node.js, Puppeteer & Flask
-
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 This project demonstrates a multi-stage Docker build that:
 
 - 🕷️ Scrapes data from a user-provided URL using **Node.js**, **Puppeteer**, and **Chromium**
